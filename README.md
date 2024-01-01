@@ -8,4 +8,5 @@ Je suis à la recherche d'une entreprise qui pourrait m'accueillir en son sein.
 Compétences
 
 Langages de développement
-<i class="devicon-css3-plain-wordmark colored"></i>
+
+![css-3](https://github.com/SlmAzr/SlmAzr/assets/97730501/972a115a-8ad4-4be2-8672-16728bb8fdcb)
