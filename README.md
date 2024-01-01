@@ -9,5 +9,6 @@ Compétences
 
 Langages de développement
 
-            <i class="devicon-css3-plain"></i>
+
           
+![html5-plain-wordmark](https://github.com/SlmAzr/SlmAzr/assets/97730501/dac4a924-59e2-4bac-9ada-5185bccad329)
