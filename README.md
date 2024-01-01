@@ -9,4 +9,5 @@ Compétences
 
 Langages de développement
 
-![css-3](https://github.com/SlmAzr/SlmAzr/assets/97730501/972a115a-8ad4-4be2-8672-16728bb8fdcb)
+            <i class="devicon-css3-plain"></i>
+          
